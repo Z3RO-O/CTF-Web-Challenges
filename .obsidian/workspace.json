@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "c7f234dd170d0f5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d3462c0a4460c1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc0b4a3ab3421642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "436250f3453ec8a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f374efbd16bfa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c38a231aad850b7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "370bd071709825e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1fe27e2e3cd7185",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09b7d7c511e0fa98",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f09b21eaea6791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f698deecc5856373",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80e3f5a5a0ed99a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fdd2eeab88db7e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5637460843a6b81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fc0b4a3ab3421642",
+  "lastOpenFiles": [
+    "crackME/node_modules/@mui/icons-material/Twitter.d.ts",
+    "crackME/node_modules/@mui/icons-material/GitHub.d.ts",
+    "crackME/node_modules/@mui/icons-material/Settings.d.ts",
+    "crackME/node_modules/@mui/icons-material/BarChart.d.ts",
+    "crackME/node_modules/@mui/icons-material/HelpOutline.d.ts",
+    "crackME/node_modules/@mui/icons-material/Close.d.ts",
+    "crackME/node_modules/@mui/icons-material/Backspace.d.ts",
+    "crackME/node_modules/react-router-dom/dist/dom.d.ts",
+    "crackME/node_modules/@remix-run/router/dist/router.d.ts",
+    "crackME/node_modules/@remix-run/router/dist/history.d.ts",
+    "crackME/node_modules/@remix-run/router/dist/utils.d.ts",
+    "crackME/node_modules/ansi-styles/readme.md",
+    "crackME/node_modules/ms/readme.md",
+    "crackME/node_modules/ms/license.md",
+    "crackME/node_modules/normalize-path/README.md",
+    "crackME/node_modules/queue-microtask/README.md",
+    "crackME/node_modules/merge2/README.md",
+    "crackME/node_modules/postcss-js/README.md",
+    "crackME/node_modules/postcss-nested/README.md",
+    "crackME/node_modules/picocolors/README.md",
+    "crackME/node_modules/has-flag/readme.md",
+    "crackME/node_modules/supports-color/readme.md",
+    "crackME/node_modules/type-check/README.md",
+    "crackME/node_modules/ts-interface-checker/README.md",
+    "crackME/node_modules/react-refresh/README.md",
+    "crackME/node_modules/prelude-ls/README.md",
+    "crackME/node_modules/prelude-ls/CHANGELOG.md",
+    "crackME/node_modules/postcss-value-parser/README.md",
+    "crackME/node_modules/postcss-load-config/README.md",
+    "crackME/node_modules/possible-typed-array-names/README.md",
+    "crackME/node_modules/possible-typed-array-names/CHANGELOG.md",
+    "crackME/node_modules/pirates/README.md",
+    "crackME/node_modules/optionator/README.md",
+    "crackME/node_modules/optionator/CHANGELOG.md",
+    "crackME/node_modules/lines-and-columns/README.md",
+    "crackME/node_modules/lilconfig/readme.md"
+  ]
+}
